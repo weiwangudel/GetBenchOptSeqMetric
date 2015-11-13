@@ -265,6 +265,7 @@ public class OptSeqMetric {
 			System.out.println("param1: optbit");
 			System.out.println("param2: 2mm-result.txt");
 			System.out.println("param3: 2mm-diff-result");
+            return;
 		}
 		
 		OptSeqMetric solve = new OptSeqMetric();
